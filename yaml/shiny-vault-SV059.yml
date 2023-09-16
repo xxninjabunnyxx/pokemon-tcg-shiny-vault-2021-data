@@ -1,0 +1,90 @@
+---
+id: swsh45sv-SV059
+name: Indeedee
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '100'
+types:
+- Psychic
+attacks:
+- name: Replenish Time
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Heal 30 damage from each of your Pokémon.
+- name: Psybeam
+  cost:
+  - Psychic
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: Your opponent's Active Pokémon is now Confused.
+weaknesses:
+- type: Darkness
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-30"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swsh45sv
+  name: Shiny Vault
+  series: Sword & Shield
+  printedTotal: 122
+  total: 122
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SHF
+  releaseDate: 2021/02/19
+  updatedAt: 2021/02/24 16:17:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh45sv/symbol.png
+    logo: https://images.pokemontcg.io/swsh45sv/logo.png
+number: SV059
+artist: Saya Tsuruta
+rarity: Rare Shiny
+flavorText: These intelligent Pokémon touch horns with each other to share information
+  between them.
+nationalPokedexNumbers:
+- 876
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh45sv/SV059.png
+  large: https://images.pokemontcg.io/swsh45sv/SV059_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV059
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.7
+      mid: 1.82
+      high: 10.0
+      market: 1.13
+      directLow: 1.79
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh45sv-SV059
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 3.33
+    lowPrice: 2.9
+    trendPrice: 3.31
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 6.8
+    lowPriceExPlus: 2.9
+    avg1: 3.5
+    avg7: 3.28
+    avg30: 3.93
+    reverseHoloAvg1: 7.0
+    reverseHoloAvg7: 7.11
+    reverseHoloAvg30: 6.95
